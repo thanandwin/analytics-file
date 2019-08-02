@@ -1,0 +1,2 @@
+# analytics-file
+adobe-analytics
